@@ -9,7 +9,6 @@ manga’s adaptation and a guide on how to use rootkits, an AI periodical took
 center stage. I was a computer science student and AI was a brand new magic and
 shiny concept to me at this time. So I bought the book...
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The book was “Revue d’intelligence artificielle volume 14 : algorithme d’apprentissage et application.” In fact I bought two more books on ant colony algorithms but I never succeeded to pass the second article. Anyway, I came back home with my shiny new book (and some others) and I started to read it. I read it on the bus, at class, at the doctor’s office and I finally finished it. It was realy intersting and one article stood out. This article was about AI and games. As you know I was a found of AI but you may not know that I do love game more than AI. I love video games, card games, board games and both game theory (the youtube channel and the science). That article (drammatic pause) was the beginning of a very long journey…
 
