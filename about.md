@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog exists. And it's already a lot ! But it have a greater goal than just that. This blog will help me to share some useless thoughts and some feedbacks on my computer science journey.
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm kind of a computer scientist who do strange thing when he is bored. And the world offered me so many occasions to get bored.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Via github.
