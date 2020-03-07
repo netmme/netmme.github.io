@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog exists. And it's already a lot ! But it have a greater goal than just that. This blog will help me to share some useless thoughts and some feedbacks on my computer science journey.
+This blog exists. And it's already a lot ! But it has a greater goal than just that. This blog will help me to share some useless thoughts and some feedbacks on my computer science journey.
 
 ### About me
 
